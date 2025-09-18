@@ -20,4 +20,4 @@ def test_subtraction_output():
 
     assert (
         value != 0
-    ), "Your subtraction printed 0. Did you subtract two different numbers?"
+    ), "Your subtraction printed 0. Did you remember to subtract two different numbers?"
